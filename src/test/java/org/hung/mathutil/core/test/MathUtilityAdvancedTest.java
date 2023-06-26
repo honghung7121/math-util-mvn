@@ -24,7 +24,7 @@ public class MathUtilityAdvancedTest {
         Object testData[][] = {{0,1},
                                {1,1},
                                {2,2},
-                               {3,6}};
+                               {3,700}};
         return testData;
     }
     
